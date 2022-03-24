@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string description="Name of the transfer API library [CHAR_LIMIT=30]" name="app_name">
+    TFLite Transfer Learning API
+  </string>
+</resources>
